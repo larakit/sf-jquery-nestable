@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-jquery-nestable",
+    "description": "[Larakit] [staticfiles] jquery.nestable.js",
+    "license": "MIT",
+    "version": "1.0.0",
+    "require": {
+        "larakit/sf-jquery": "*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
